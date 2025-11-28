@@ -76,7 +76,7 @@
 
 ### 🚀 Featured Projects
 - 🧠 **UCUA Reporting System (Johor Port Berhad)** — AI-enhanced safety report management with real-time analytics and predictive risk scoring.  
-- 🌐 **PTPConnect (REST API + SharePoint Integration)** — Middleware for secure CRUD operations between PHP system and SharePoint Online.  
+- 🌐 **PTPConnect (REST API + SharePoint Integration)** — Middleware for secure CRUD operations between a PHP system and SharePoint Online.  
 - 🩺 **Lung Cancer Prediction (MLP Model)** — Built with C++ and WEKA to improve lung cancer risk detection accuracy.  
 - 💡 **Mnqarlz Portfolio System** — Full-stack photography & event service management website.  
 
