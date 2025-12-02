@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 💼 Developer at **Mnqarlz**, providing services in **web systems, software, and photography**
 - 🎓 Final Year Project: *"Unsafe Condition, Unsafe Action (UCUA) Reporting System for Johor Port Berhad"*, integrating **AI for risk prediction and offense classification**
-- ⚙️ Skilled in full-stack web development with MVC architecture, SharePoint integration, and AI automation
+- ⚙️ Skilled in full-stack web development with MVC architecture, and AI automation
 - 🧠 Currently learning **system architecture scaling**, **Azure integration**, and **advanced data analytics**
 - 📫 Reach me at **aiman020404@gmail.com**
 - ⚡ Fun fact: *I’m probably coding, debugging, or designing even when I’m “resting” 😄*
