@@ -1,87 +1,112 @@
-<h1 align="center">👋 Hi, I'm Muhammad Aiman Haiqal</h1>
-<h3 align="center">Full Stack & AI Developer | System Integrator | Based in Johor, Malaysia</h3>
+<div align="center">
+
+# 👋 Muhammad Aiman Haiqal  
+### Full Stack & AI Developer | System Integrator | Johor, Malaysia 🇲🇾  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+build+systems+that+scale;AI+%7C+Automation+%7C+Web+Systems;Developer+%40+Mnqarlz;Always+learning+new+tech" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mnqarlz&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Full-stack developer building practical systems with real-world impact  
+🏢 Developer at **Mnqarlz** (Web systems, AI automation & media services)  
+🎓 Final Year Project: **Unsafe Condition & Unsafe Action (UCUA) Reporting System for Johor Port Berhad**  
+🧠 Interests: System Architecture, AI Integration, Data Analytics  
+🌱 Currently learning: Azure Cloud, Infrastructure Scaling, Enterprise Systems  
+📬 Email: **aiman020404@gmail.com**  
+
+> ⚡ _“If it can be automated, optimized or rebuilt — I will try.”_
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mnqarlz&label=Profile%20views&color=0e75b6&style=flat" alt="mnqarlz" />
+<a href="https://www.facebook.com/aimanhaiqal.salehuddin">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UCTpaDpBcykPSQjN6TduzQKA">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://discord.gg/cjrXa9FZmB">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💼 Developer at **Mnqarlz**, providing services in **web systems, software, and photography**
-- 🎓 Final Year Project: *"Unsafe Condition, Unsafe Action (UCUA) Reporting System for Johor Port Berhad"*, integrating **AI for risk prediction and offense classification**
-- ⚙️ Skilled in full-stack web development with MVC architecture, and AI automation
-- 🧠 Currently learning **system architecture scaling**, **Azure integration**, and **advanced data analytics**
-- 📫 Reach me at **aiman020404@gmail.com**
-- ⚡ Fun fact: *I’m probably coding, debugging, or designing even when I’m “resting” 😄*
+## 🧩 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.facebook.com/aimanhaiqal.salehuddin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCTpaDpBcykPSQjN6TduzQKA" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/cjrXa9FZmB" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+### Backend & AI
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejs)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![ML](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge)
 
 ---
 
-### 🧩 Languages & Tools
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-
-  <!-- Database -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-
-  <!-- Misc -->
-  <a href="https://learn.microsoft.com/en-us/sharepoint/dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="sharepoint" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnqarlz&show_icons=true&theme=tokyonight" alt="mnqarlz stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnqarlz&theme=tokyonight" alt="mnqarlz streak" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mnqarlz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnqarlz&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
-- 🧠 **UCUA Reporting System (Johor Port Berhad)** — AI-enhanced safety report management with real-time analytics and predictive risk scoring.  
-- 🌐 **PTPConnect (REST API + SharePoint Integration)** — Middleware for secure CRUD operations between a PHP system and SharePoint Online.  
-- 🩺 **Lung Cancer Prediction (MLP Model)** — Built with C++ and WEKA to improve lung cancer risk detection accuracy.  
-- 💡 **Mnqarlz Portfolio System** — Full-stack photography & event service management website.  
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mnqarlz&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
 
 ---
 
-<p align="center">
-  ✨ *"Code with structure, design with purpose, and build with impact."* ✨
-</p>
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=mnqarlz&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 **UCUA Reporting System** | AI-driven safety analytics system for Johor Port Berhad |
+| 🌐 **PTPConnect API** | PHP middleware for SharePoint CRUD operations |
+| 🩺 **Lung Cancer Prediction** | C++ + WEKA MLP model |
+| 📸 **Mnqarlz Portfolio System** | Photography & event management platform |
+
+---
+
+<div align="center">
+
+### ✨ *Code with structure. Build with impact.* ✨  
+
+</div>
