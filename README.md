@@ -19,7 +19,7 @@
 🏢 Developer at **Mnqarlz** (Web systems, AI automation & media services)  
 🎓 Final Year Project: **Unsafe Condition & Unsafe Action (UCUA) Reporting System for Johor Port Berhad**  
 🧠 Interests: System Architecture, AI Integration, Data Analytics, Web Applications  
-🌱 Currently learning: Azure Cloud, Infrastructure Scaling, Enterprise Systems  
+🌱 Currently learning: Azure Cloud, Infrastructure Scaling, Enterprise Systems, JavaScript Stack Architecture  
 📬 Email: **aiman020404@gmail.com**  
 
 > ⚡ _“If it can be automated, optimized or rebuilt — I will try.”_
